@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.container {
+    padding-top: 51px;
+}
+
+.container-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
